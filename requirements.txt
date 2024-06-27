@@ -1,0 +1,7 @@
+seaborn
+# torch
+pandas
+scipy
+matplotlib
+# numpy==1.18.5
+scikit_learn
